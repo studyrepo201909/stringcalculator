@@ -1,3 +1,11 @@
+#Prerequisite
+
+Java8
+
+Gradle4.7+
+
+##
+
 # stringcalculator
 
 String Calculator
